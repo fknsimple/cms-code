@@ -111,7 +111,7 @@ p.lineHeight150 {
 
 /*lists*/
 
-ul.greenBullet, ul.blueBullet, ul.redBullet, ul.purpleBullet {
+ul.greenBullet, ul.blueBullet, ul.redBullet, ul.purpleBullet, ul.purpleBullet25 {
 	list-style:none;
 	padding:0px;
 	text-indent:0;
